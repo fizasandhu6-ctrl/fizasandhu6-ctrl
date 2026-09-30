@@ -39,9 +39,9 @@ HTML & CSS → JavaScript → Python Basics → Power BI → SQL → Python for 
 
 Work in progress. Projects will be added here as they're completed.
 
-| Project | Tech | Status |
-|---------|------|--------|
-| — | HTML, CSS | In progress |
+| Project       | Tech          | Status |
+|---------------|---------------|--------|
+|expense tracker| HTML, CSS, js | completed |
 
 ---
 
